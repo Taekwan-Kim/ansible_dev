@@ -1,4 +1,4 @@
 - hosts: localhost
   tasks:
-    - name: test hostname
+    - name: test hostname2
       command: echo hostname
